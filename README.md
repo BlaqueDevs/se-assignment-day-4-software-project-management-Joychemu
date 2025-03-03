@@ -14,7 +14,17 @@ Importance:
 - Stakeholder Satisfaction: Ensures that the needs and expectations of stakeholders are met.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-
+Effective cost control is crucial to the success of a software project because it ensures that the project is delivered within its financial constraints, maximizing the value of the resources invested. Managing costs efficiently also helps avoid resource wastage, prevents scope creep, and improves overall project performance.
+Strategies to Prevent Budget Overruns:
+1.	Define Clear Scope and Requirements: The clearer the scope and requirements from the beginning, the less likely the project is to suffer from scope creep or unplanned changes, which can lead to budget overruns.
+2.	Use a Phased Approach: Break the project into smaller, manageable phases or milestones. 
+3.	Regular Monitoring and Reporting: Continuously track project expenses and compare them to the budget. 
+4.	Prioritize Features: If budget constraints are tight, prioritize the most critical features that must be delivered. 
+5.	Build in Contingency: Allocate a portion of the budget for unforeseen issues or risks. 
+6.	Effective Vendor and Resource Management: If the project relies on third-party vendors, negotiate clear contracts with well-defined terms to prevent hidden costs or unexpected price increases. Ensure that internal resources are used efficiently.
+7.	Conduct Regular Risk Assessments: Identify potential risks that could impact the budget (such as technical challenges, changes in requirements, or staffing issues) and have a mitigation plan in place for each.
+8.	Implement Agile Methodology: Agile methodologies allow for iterative development and continuous review of progress, which helps ensure that the project stays aligned with the budget as well as the scope.
+   
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
 
